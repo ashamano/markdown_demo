@@ -1,6 +1,6 @@
 # This is a headline
 
-Introduce the template here!
+Introduce the new data here!
 
 ## This is a subheading (woohoo)
 
